@@ -7,3 +7,8 @@ Node/Express Server
 
 1. `cd` into `server` folder.
 2. Execute `npm run start`.
+
+## To Build the App for Production
+
+1. `cd` into `server` folder.
+2. Execute `npm run build`.
